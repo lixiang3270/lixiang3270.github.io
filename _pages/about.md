@@ -20,7 +20,7 @@
 
 # 🎓 学历
 - *2024.09 - 2027.06*, <a href="https://www.swufe.edu.cn/"><img class="svg" src="/images/SWUFE.jpg" width="23pt"></a> 西南财经大学 , 四川成都, 硕士
-- *2020.09 - 2024.06*, <a href="https://www.henu.edu.cn/"><img class="svg" src="/images/HENU.png" width="20pt"></a> 河南大学 , 河南郑州, 本科
+- *2020.09 - 2024.06*, <a href="https://www.henu.edu.cn/"><img class="svg" src="/images/HENU.jpeg" width="20pt"></a> 河南大学 , 河南郑州, 本科
  
 <span class='anchor' id='-lwzl'></span>
 
@@ -72,6 +72,7 @@
 
 # 💻 工作实习
 - *2024.1 - 2024.4*, 中国一拖集团, 河南洛阳
+
 
 
 
