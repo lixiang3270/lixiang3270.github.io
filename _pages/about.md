@@ -46,7 +46,7 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Knowledge-Based Systems</div><img src='images/NCMFS.png'  width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
--	`Xiang Li`, Huimin Fu, Xiaoou Huang, Tianyi Xie, Lingfei Ren, Wanfu Gao, Yonghao Li*\, Xin Yang. Negative label-Aware and correlation-Enhanced multi-Label feature selection. *Knowledge-Based Systems*, 2025, Volume 331. (JCR:Q1; IF:7.6)  
+-	`Xiang Li`, Huimin Fu, Xiaoou Huang, Tianyi Xie, Lingfei Ren, Wanfu Gao, Yonghao Li**\***, Xin Yang. Negative label-Aware and correlation-Enhanced multi-Label feature selection. *Knowledge-Based Systems*, 2025, Volume 331. (JCR:Q1; IF:7.6)  
 [[网页]](https://doi.org/10.1016/j.knosys.2025.114797) [[预览]](https://www.sciencedirect.com/science/article/pii/S0950705125018350) [[下载]]()
 
 </div>
@@ -86,6 +86,7 @@ redirect_from:
 
 # 💻 工作实习
 - *2024.1 - 2024.4*, 中国一拖集团, 河南洛阳
+
 
 
 
