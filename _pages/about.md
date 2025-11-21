@@ -43,7 +43,7 @@ redirect_from:
 
 ### 英文
 ---
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Knowledge-Based Systems</div><img src='images/sensors2022.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Knowledge-Based Systems</div><img src='images/NCMFS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 -	`Xiang Li`, Huimin Fu, Xiaoou Huang. Negative label-Aware and correlation-Enhanced multi-Label feature selection. *Knowledge-Based Systems*, 2025, Volume 331. (JCR:Q1; IF:7.6)  
@@ -87,6 +87,7 @@ redirect_from:
 
 # 💻 工作实习
 - *2024.1 - 2024.4*, 中国一拖集团, 河南洛阳
+
 
 
 
