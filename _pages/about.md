@@ -1,12 +1,4 @@
----
-permalink: /
-title: ""
-excerpt: ""
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
+
 
 
 
@@ -96,6 +88,7 @@ redirect_from:
 
 # 💻 工作实习
 - *2024.1 - 2024.4*, 中国一拖集团, 河南洛阳
+
 
 
 
